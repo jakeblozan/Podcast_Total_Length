@@ -1,0 +1,7 @@
+https://rss.art19.com/the-daily
+https://rss.art19.com/the-argument
+https://api.podcache.net/shows/87e44bb8-fa63-4642-a11d-e341c14c2243/feed
+https://pbcdn1.podbean.com/alert5podcast/feed.xml
+https://aopathereiwas.libsyn.com/rss
+https://tfpaviation.libsyn.com/rss
+https://nodumbqs.libsyn.com/rss
