@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Search
+comment0.text=\r\n\ Scans\ podcast\ RSS\ feeds\ for\ episode\ durations\ and\ sums\ them.\r\n\r\n\ @author\ (Jake\ Blozan)\r\n\ @version\ (11/22/19)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=time1\ time2
+comment2.target=java.lang.String\ addTime(java.lang.String,\ java.lang.String)
+comment3.params=url
+comment3.target=boolean\ isValid(java.lang.String)
+numComments=4
